@@ -20,17 +20,19 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## ⚙️ Skills
 
-**IT Support & Ticketing -** **ServiceNow**, JIRA, Incident Management, SLA Handling.
+**IT Support & Ticketing -** Incident Management, **ServiceNow**, SLA Handling.
 
-**Remoter Tool & Service -** AnyDesk , **Active Directory**. 
+**Directory Service -** Active Directory (User Management, Password Reset).
 
-**System Tools & Troubleshooting -** Command Prompt, PowerShell.
+**Networking -** DNS, DHCP, VPN, **TCP/IP**, Troubleshooting.
 
-**Operating Systems -** Windows, **Linux** , macOS.
+**Operating Systems -** Windows, **Linux**, macOS.
 
-**Networking -** **TCP/IP**, DNS, DHCP, VPN, Troubleshooting.
+**System Tools -** Command Prompt, PowerShell.
 
-**SOC & Monitoring -** **SIEM tools**, log analysis, alert monitoring.
+**Remote Tool -** AnyDesk, TeamViewer.
+
+**SOC & Monitoring -** Log analysis, alert monitoring, **SIEM tools**.
 
 
 
