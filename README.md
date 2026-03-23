@@ -34,14 +34,15 @@ I am passionate about **cybersecurity, threat detection, and blue team operation
 
 ## 💼 Work Experience
 
-### Network Support Intern
+### Network Support Analyst 
 **Pragyavani Solutions LLP**  
-📅 OCT 2025 – DEC 2026
+📅 FEB 2025 – FEB 2026
 
 Responsibilities:
 
 - Configured and supported **routers, switches, firewalls, and network devices**
 - Monitored **SIEM alerts (Splunk)** and performed **L1 triage** on suspicious activities
+
 
 ---
 
